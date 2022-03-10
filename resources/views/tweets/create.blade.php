@@ -34,7 +34,7 @@
                             <div class="col-md-12 text-right">
                                 <p class="mb-4 text-danger">140文字以内</p>
                                 <button type="submit" class="btn btn-primary">
-                                    ツイートする
+                                    ツイートする✍
                                 </button>
                             </div>
                         </div>
